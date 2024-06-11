@@ -3,6 +3,7 @@
   "wake_word": "hey marvin",
   "author": "Sam W",
   "model": "./hey_marvin.tflite",
+  "website": "https://www.github.com/",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
